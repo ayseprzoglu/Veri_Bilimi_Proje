@@ -5,3 +5,7 @@
 <li>Mutluluk Analizi</li>
 <h3>Üçüncü Proje</h3>
 <li>Trafik Analizi</li>
+
+<h3> Data Science For The Public Good Patikasi
+<h3>İlk Proje</h3>
+<li>Enerji Verimliliği</li>
