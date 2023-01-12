@@ -9,3 +9,5 @@
 <h3> Data Science For The Public Good Patikasi
 <h3>İlk Proje</h3>
 <li>Enerji Verimliliği</li>
+<h3>İkinci Proje</h3>
+<li>Depresyon Durumu Tahmini</li>
